@@ -98,6 +98,11 @@ sns.heatmap(heat_data, cmap='YlGnBu')
 Visualizes correlation between content ratings and duration.
 
 ## 📸 Sample Visuals
+![img](img1.png)
+![img](img2.png)
+![img](img3.png)
+
+
 ## 🚀 Key Insights
 
  - 🎬 Movies dominate Netflix’s catalog (over 90% of titles).
